@@ -1,6 +1,6 @@
 
 body {
-    background-image: linear-gradient(to bottom, #FF0000, #00FF00);
+    background-image: linear-gradient(to bottom, red, darkGreen);
 }
 
 h1 {
@@ -8,18 +8,19 @@ h1 {
     color: white;
     border: 1px solid green;
     border: 15px solid green;
-    padding: 10px;
-    margin: 20px;
+    text-align: center;
+    box-sizing: padding-box;
 }
 footer { 
     text-align: center;
 }
 p {
-    font-size: 18px;
+    font-size: 24px;
     color: white;
     background-color: darkGreen;
     border: 1px solid green;
     border: 15px solid green;
+    text-align: center;
 }
 
 h3 {
@@ -42,5 +43,9 @@ h3 {
     flex-wrap: wrap;
     justify-content: center;
   }
-
+  h1 {
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }

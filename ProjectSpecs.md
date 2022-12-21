@@ -3,17 +3,17 @@
 ## Creativity
  - The primary purpose of a "freelance" project is to take what you have learned in the related walk-throughs and make it your own.
  - In this project you are asked to do the following:
-     - Choose the text of exactly THREE holiday celebration text (markDown) files from all files provided in the "ChooseThree" folder of this repository.
-     - Use the Image Gallery and Aladdin student portfolio walk-throughs as models to create YOUR own "original" Holiday Design CSS and HTML Zen static website. 
-     - Establish your own HTML Structure AND CSS Styles following the guidelines stated in General Specifications below.
-     - Your project should be **ONE page** only - thus not requiring a navigation menu.
-     - Demonstrate your knowledge of **flex box** by utilizing this CSS tool in your project
-     - Select your own colors / color palette
+     O Choose the text of exactly THREE holiday celebration text (markDown) files from all files provided in the "ChooseThree" folder of this repository.
+     O Use the Image Gallery and Aladdin student portfolio walk-throughs as models to create YOUR own "original" Holiday Design CSS and HTML Zen static website. 
+     O Establish your own HTML Structure AND CSS Styles following the guidelines stated in General Specifications below.
+     O Your project should be **ONE page** only - thus not requiring a navigation menu.
+     O Demonstrate your knowledge of **flex box** by utilizing this CSS tool in your project
+     O Select your own colors / color palette
      - Select your own font(s)
-     - Your images and external files should be stored in a folder titled "assets".
-     - Adhere to any and all copyright concerns
+     O Your images and external files should be stored in a folder titled "assets".
+     O Adhere to any and all copyright concerns
      - Add one HTML or CSS feature that we have yet to use in our projects to date.
-     - Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) and [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
+     O Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) and [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
  - This project will be published on the internet using GitHub pages (as demonstrated in the walk-through) and thus should be appropriate for public viewing and your educational institution's representation
 
 
