@@ -9,10 +9,10 @@
      O Your project should be **ONE page** only - thus not requiring a navigation menu.
      O Demonstrate your knowledge of **flex box** by utilizing this CSS tool in your project
      O Select your own colors / color palette
-     - Select your own font(s)
+     O Select your own font(s)
      O Your images and external files should be stored in a folder titled "assets".
      O Adhere to any and all copyright concerns
-     - Add one HTML or CSS feature that we have yet to use in our projects to date.
+     O Add one HTML or CSS feature that we have yet to use in our projects to date.
      O Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) and [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
  - This project will be published on the internet using GitHub pages (as demonstrated in the walk-through) and thus should be appropriate for public viewing and your educational institution's representation
 
